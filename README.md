@@ -19,6 +19,12 @@ Survey Link:			https://www.research.net/r/trailheadacademy
 Survey ID:			TASM-040841
 
 -------------------------------------------------------------------------------------------------------------------
+VM login info:
+
+Login at: https://use.cloudshare.com/Class/wfzzn 
+
+Use the passphrase: Nicholas the Purple Bison
+
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX475
 
 DataWeave Playground:
