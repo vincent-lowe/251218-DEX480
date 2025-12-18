@@ -54,6 +54,8 @@ Classroom Playlist
 |Track Title|Artist|Notes|
 |-----------|------|-----|
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
+|Sister Golden Hair|Reina del Cid|now: Elle Cordova|
+
 
 
 
