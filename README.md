@@ -1,22 +1,22 @@
-#### DEX475 - API Design with Mulesoft Reference - YYMMDD - TZ
+#### DEX475 - API Design with Mulesoft Reference - 25121118 TZ PST
 
-Instructor Name
+Instructor Name: 		Vincent Lowe
 
-instructor@salesforce.com
-
--------------------------------------------------------------------------------------------------------------------
-Trailhead Academy:			https://trailheadacademy.salesforce.com/my-learning
-
-Attendance Code:			   XXXXXX
-
-Salesforce Mimeo:		      https://salesforce.mimeo.digital/MuleSoft
-
-eBook Redemption Key:		USZZZZZZZZZZ
+instructor@salesforce.com	vlowe@salesforce.com
 
 -------------------------------------------------------------------------------------------------------------------
-Survey Link:				https://www.research.net/r/trailheadacademy
+Trailhead Academy:		https://trailheadacademy.salesforce.com/my-learning
 
-Survey ID:				XXXXXXX
+Attendance Code:		NFQDXK
+
+Salesforce Mimeo:		https://salesforce.mimeo.digital/MuleSoft
+
+eBook Redemption Key:		UST4X54O9HDH
+
+-------------------------------------------------------------------------------------------------------------------
+Survey Link:			https://www.research.net/r/trailheadacademy
+
+Survey ID:			TASM-040841
 
 -------------------------------------------------------------------------------------------------------------------
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX475
