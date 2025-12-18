@@ -2,7 +2,7 @@
 
 Instructor Name: 		Vincent Lowe
 
-instructor@salesforce.com	vlowe@salesforce.com
+email:				vlowe@salesforce.com
 
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:		https://trailheadacademy.salesforce.com/my-learning
