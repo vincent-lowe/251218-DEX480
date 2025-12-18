@@ -62,6 +62,7 @@ Classroom Playlist
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
 |Sister Golden Hair|Reina del Cid|now: Elle Cordova|
 |The Streetbeater|Quincy Jones|theme from the TV show Sanford and Son|
+|Here We Go Again|Ray Charles and Norah Jones|Genius Loves Company|
 
 
 
