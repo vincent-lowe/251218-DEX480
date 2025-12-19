@@ -65,7 +65,8 @@ Classroom Playlist
 |Here We Go Again|Ray Charles and Norah Jones|from the album: "Genius Loves Company"|
 |Easy Money|Rebecca Loebe|from her album "Blink"|
 |Good Day for a Good Day|Michael Franti and Spearhead||
-
+|Just Breathe|Willie Nelson|feat. Lukas Nelson|
+|How Can You Mend a Broken Heart|Al Green||
 
 
 
