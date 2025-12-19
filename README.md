@@ -64,6 +64,7 @@ Classroom Playlist
 |The Streetbeater|Quincy Jones|theme from the TV show Sanford and Son|
 |Here We Go Again|Ray Charles and Norah Jones|from the album: "Genius Loves Company"|
 |Easy Money|Rebecca Loebe|from her album "Blink"|
+|Good Day for a Good Day|Michael Franti and Spearhead||
 
 
 
