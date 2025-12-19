@@ -68,6 +68,8 @@ Classroom Playlist
 |Just Breathe|Willie Nelson|feat. Lukas Nelson|
 |How Can You Mend a Broken Heart|Al Green||
 |Just Stopped In (To See What Condition My Condition Was In)|Willie Nelson||
+|Stairway to Heaven|Luca Stricagnoli|Led Zeppelin cover|
+|Crazy He Calls Me|Billie Holiday||
 
 
 
